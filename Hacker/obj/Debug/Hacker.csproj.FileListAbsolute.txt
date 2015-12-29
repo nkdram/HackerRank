@@ -1,0 +1,6 @@
+C:\HackersProject\Hacker\Hacker\bin\Debug\Hacker.exe.config
+C:\HackersProject\Hacker\Hacker\bin\Debug\Hacker.exe
+C:\HackersProject\Hacker\Hacker\bin\Debug\Hacker.pdb
+C:\HackersProject\Hacker\Hacker\obj\Debug\Hacker.csprojResolveAssemblyReference.cache
+C:\HackersProject\Hacker\Hacker\obj\Debug\Hacker.exe
+C:\HackersProject\Hacker\Hacker\obj\Debug\Hacker.pdb
